@@ -1,5 +1,5 @@
 app.controller('mainController', function($scope, $timeout) {
-    $scope.finalDate = new Date('2016', '02', '13');
+    $scope.finalDate = new Date('2021', '08', '09');
 
     countdown.setLabels(
         ' millisegundos| segundo| minuto| hora| dia| semana| mes| ano| decade| century| millennium',
